@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1F9C0132-A39F-4ED5-8CE4-D38FB1B13D26"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D7351DC-B3AF-41C3-AD83-69B5DACE37B3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Restart/Screens/HomeView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4D7351DC-B3AF-41C3-AD83-69B5DACE37B3 - 602bb06d0f84ea5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(Restart.CircleGroupView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.controlSize(SwiftUI.ControlSize) -&gt; some&gt;&gt;.0)&gt; in Restart.HomeView.body.getter : some"
+                  moduleName = "Restart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro2017/Desktop/Restart/Restart/Screens/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "33">
+               </Location>
+               <Location
+                  uuid = "4D7351DC-B3AF-41C3-AD83-69B5DACE37B3 - 6b6cbcaba7cce4f6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.imageScale(SwiftUI.Image.Scale) -&gt; some&gt;&gt;.0, SwiftUI.Text)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Spacer, SwiftUI.ZStack&lt;SwiftUI.TupleView&lt;(Restart.CircleGroupView, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0)&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.padding(SwiftUI.Edge.Set, Swift.Optional&lt;CoreGraphics.CGFloat&gt;) -&gt; some&gt;&gt;.0, SwiftUI.Spacer, &lt;&lt;opaque return type of SwiftUI.View.controlSize(SwiftUI.ControlSize) -&gt; some&gt;&gt;.0)&gt; in Restart.HomeView.body.getter : some"
+                  moduleName = "Restart"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro2017/Desktop/Restart/Restart/Screens/HomeView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "366">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
