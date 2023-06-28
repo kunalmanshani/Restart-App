@@ -1,7 +1,7 @@
 # Restart-App
 
 1) this project contains 2 screens
-2) 1 is oOnboarding and 2nd is Homescreen
+2) 1st is oOnboarding and 2nd is Homescreen
 3) this projecct is fully based on SwfitUI and its little bit animations
 4) feel free to contribute and modify in current code
 
